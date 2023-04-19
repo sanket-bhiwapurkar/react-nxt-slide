@@ -1,0 +1,16 @@
+.slide-btn {
+  width: 250px;
+  border-radius: 0px 12px 12px 0px;
+  margin: 6px 0px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  display: flex;
+}
+.active-slide {
+  background-color: #dbeafe;
+}
+.slide-thumbnail {
+  background-color: #ffffff;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/nxt-slides/nxt-slides-bg.png');
+}
